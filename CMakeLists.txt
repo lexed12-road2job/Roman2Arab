@@ -10,5 +10,5 @@ project(Roman2Arab)
 # TODO: Добавьте тесты и целевые объекты, если это необходимо.
 
 
-add_executable (Roman2Arab "main.cpp" "Roman2Arab.h" "Func.h")
+add_executable (Roman2Arab "main.cpp" "Roman2Arab.h" )
 
